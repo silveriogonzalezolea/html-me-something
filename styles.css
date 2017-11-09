@@ -1,0 +1,29 @@
+.images{
+    margin: left;
+
+
+}
+h1 {
+    text-align: center;
+    color: #B565A7;
+
+}
+#CO {
+    font-family: Impact;
+}
+#LV {
+    font-family: cursive;
+
+}
+img {
+
+    width: 600px;
+    height: 400px;
+
+}
+*{
+    background-color: #88B04B;
+}
+section p{
+    background-color:  #92A8D1
+}
